@@ -8,6 +8,7 @@
 .row {
 	margin-left: 20px;
 }
+
 .row_posters::-webkit-scrollbar {
 	display: none;
 }
