@@ -2,13 +2,13 @@ import Row from "./Row.js";
 import "./App.css";
 import requests from "./requests";
 import Banner from "./Banner";
+import Nav from "./Nav";
 
 function App() {
 	return (
 		<div className="App">
-			{/* {Nav bar} */}
+			<Nav />
 			<Banner />
-			{/* {Banner} */}
 			<Row
 				title="Rajni Originals"
 				fetchUrl={requests.fetchNetflixOriginals}
