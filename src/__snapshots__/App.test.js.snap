@@ -1,0 +1,150 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`First snapshot Testing 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="nav"
+  >
+    <img
+      alt="Netlfix Logo"
+      className="nav_logo"
+      src="https://upload.wikimedia.org/wikipedia/commons/6/67/NewNetflixLogo.png"
+    />
+    <img
+      alt="Netlfix Avatar"
+      className="nav_avatar"
+      src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png"
+    />
+  </div>
+  <header
+    className="banner"
+    style={
+      Object {
+        "backgroundImage": "url(
+        \\"https://image.tmdb.org/t/p/original/undefined\\"
+        )",
+        "backgroundPosition": "center center",
+        "backgroundSize": "cover",
+      }
+    }
+  >
+    <div
+      className="banner_contents"
+    >
+      <h1
+        className="banner_title"
+      />
+      <div
+        className="banner__buttons"
+      >
+        <button
+          className="banner_button"
+        >
+          Play
+        </button>
+        <button
+          className="banner_button"
+        >
+          My List
+        </button>
+      </div>
+      <h1
+        className="banner_description"
+      />
+    </div>
+    <div
+      className="banner--fadeButtom"
+    />
+  </header>
+  <div
+    className="row"
+  >
+    <h2>
+      Rajni Originals
+    </h2>
+    <div
+      className="row_posters"
+    />
+    
+  </div>
+  <div
+    className="row"
+  >
+    <h2>
+      Rajni Trending Now
+    </h2>
+    <div
+      className="row_posters"
+    />
+    
+  </div>
+  <div
+    className="row"
+  >
+    <h2>
+      Rajni Top Rated
+    </h2>
+    <div
+      className="row_posters"
+    />
+    
+  </div>
+  <div
+    className="row"
+  >
+    <h2>
+      Rajni Action Movies
+    </h2>
+    <div
+      className="row_posters"
+    />
+    
+  </div>
+  <div
+    className="row"
+  >
+    <h2>
+      Rajni Comedy Movies
+    </h2>
+    <div
+      className="row_posters"
+    />
+    
+  </div>
+  <div
+    className="row"
+  >
+    <h2>
+      Rajni Horror Movies
+    </h2>
+    <div
+      className="row_posters"
+    />
+    
+  </div>
+  <div
+    className="row"
+  >
+    <h2>
+      Rajni Romance Movies
+    </h2>
+    <div
+      className="row_posters"
+    />
+    
+  </div>
+  <div
+    className="row"
+  >
+    <h2>
+      Rajni Documentaries
+    </h2>
+    <div
+      className="row_posters"
+    />
+    
+  </div>
+</div>
+`;
